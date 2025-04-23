@@ -1,2 +1,20 @@
 # QTCAE-IDS
 A quantised temporal convolutional autoencoder deployed on the PYNQ-Z2 FPGA using the FINN framework. 
+
+
+The model architecture, training, and validation can be found in the QuantisedAutoEncoder.ipynb Python Jupyter Notebook
+This part of the project was done using the Google Drive and Google Colab, and as such any filesystem based code 
+using paths etc is likely to need changing.
+
+The dataset used is the CarHacking dataset and the preprocessed version of this dataset can be found in the Dataset/ Directory[1].
+Note that I have preprocessed this dataset into my own proprietary format using the numpy library.
+
+TODO: Upload the FINN code and the corresponding PYNQ-Z2 PS code. 
+
+
+
+
+
+
+
+[1] H. M. Song and H. K. Kim, “CAN network intrusion datasets,” [Online]. Available: https://ocslab.hksecurity.net/Datasets/car-hacking-dataset. [Accessed 21 03 2025].
