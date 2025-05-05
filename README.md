@@ -11,7 +11,11 @@ Note that I have preprocessed this dataset into my own proprietary format using 
 upload this to github as it is much larger than 25MB.
 
 
-TODO: Upload the FINN code and the corresponding PYNQ-Z2 PS code. 
+The FINN code is also uploaded which only operates in a FINN docker container on a specific version of Ubuntu
+on a machine that has a X86 architecure processor.
+
+
+TODO: Upload the PYNQ-Z2 PS code. 
 
 
 
